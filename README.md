@@ -19,14 +19,12 @@
 - 🖥 **Compilation:** GCC / Turbo C / Any C Compiler  
 
 ---
+📂 Steganography_Project  
+│  
+├── 📄 steganography.c   # Main source code  
+├── 📄 steganography.h   # Header file  
+├── 📄 README.md         # Project documentation  
+├── 🖼 image.bmp         # Sample image for testing  
+├── 📝 secret.txt        # Secret message file  
+└── 🔹 steganography     # Compiled executable  
 
-## 📂 File Structure  
-📂 Steganography
-│
-├── 📄 steganography.c # Main source code
-│
-├── 🖼 image.bmp # Sample BMP image for testing
-│
-├── 📝 secret_message.txt # Text file containing the hidden message
-│
-├── 📄 README.md # Project documentation
