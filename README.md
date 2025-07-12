@@ -26,5 +26,5 @@
 ├── 📄 README.md         # Project documentation  
 ├── 🖼 image.bmp         # Sample image for testing  
 ├── 📝 secret.txt        # Secret message file  
-└── 🔹 steganography     # Compiled executable  
+└── 🔹 steganography     # Compiled executable perfectly
 
