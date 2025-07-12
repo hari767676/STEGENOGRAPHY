@@ -21,7 +21,7 @@
 ---
 📂 Steganography_Project  
 │  
-├── 📄 steganography.c   # Main source code  
+├── 📄 steganography.c   # Main source code  here
 ├── 📄 steganography.h   # Header file  
 ├── 📄 README.md         # Project documentation  
 ├── 🖼 image.bmp         # Sample image for testing  
